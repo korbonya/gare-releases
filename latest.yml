@@ -1,8 +1,8 @@
-version: 1.5.9
+version: 1.7.6
 files:
-  - url: https://github.com/korbonya/gare-releases/releases/download/v1.5.9/GareRoutiere-Setup-1.5.9.exe
-    sha512: 7FZ05svfn6c84uVvMR8wsAM8cUVtoFVrUt69ywwMb0aNDQ56HH2RyOt/VFXtmMAzGMarHzUaYdC3yxv9l8yIHw==
-    size: 139281416
-path: https://github.com/korbonya/gare-releases/releases/download/v1.5.9/GareRoutiere-Setup-1.5.9.exe
-sha512: 7FZ05svfn6c84uVvMR8wsAM8cUVtoFVrUt69ywwMb0aNDQ56HH2RyOt/VFXtmMAzGMarHzUaYdC3yxv9l8yIHw==
-releaseDate: '2026-04-20T06:59:40.013Z'
+  - url: https://github.com/korbonya/gare-releases/releases/download/v1.7.6/GareRoutiere-Setup-1.7.6.exe
+    sha512: /oAFANTv/B0ACot+hp++DdBdwohI4/qX/Z20CoavCJOG6xE+ynAaqXep3wQkWYLJAOc6XftO5XNwRUVLCoefmA==
+    size: 139600388
+path: https://github.com/korbonya/gare-releases/releases/download/v1.7.6/GareRoutiere-Setup-1.7.6.exe
+sha512: /oAFANTv/B0ACot+hp++DdBdwohI4/qX/Z20CoavCJOG6xE+ynAaqXep3wQkWYLJAOc6XftO5XNwRUVLCoefmA==
+releaseDate: '2026-04-23T01:48:23.770Z'
